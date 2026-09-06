@@ -64,15 +64,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
 </p>
-
----
-
-<div align="center">
-
-### GitHub Status
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=blrain3&theme=radical&hide_border=true" alt="GitHub Streak" />
-<br/>
-<img src="https://github-readme-stats-two-navy.vercel.app/api/top-langs?username=blrain3&theme=radical&hide_border=true&layout=compact&langs_count=8&card_width=495" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img src="https://tg.salix.eu.org/file/1788662154646_5244530522032118507.webp" alt="profile picture" align="left" width="45%" />
+  <img src="https://tg.salix.eu.org/file/1788662424482_5453956408740091769.webp" alt="5248992086814563721.jpg" align="right" width="45%"/>
+</p>
